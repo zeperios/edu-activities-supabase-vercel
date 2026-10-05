@@ -1,0 +1,1 @@
+# edu-activities-supabase-vercel
